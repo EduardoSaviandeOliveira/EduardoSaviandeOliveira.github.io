@@ -5,6 +5,8 @@ body {
 }
 
 section {
+  color: white;
+  background-color: black;
   margin: 0 auto;
   width: 90%;
   border-style: solid;
