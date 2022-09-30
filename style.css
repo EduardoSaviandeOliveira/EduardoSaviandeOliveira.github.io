@@ -19,6 +19,22 @@ header {
 
 footer {
   margin-top: 10px;
+  padding-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+footer p {
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+img {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-weight: 200;
 }
 
 .btn.btn-secondary.btn-lg.active {
