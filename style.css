@@ -1,0 +1,47 @@
+body {
+  font-family: 'Source Serif Pro', serif;
+  background-color: black;
+  color: white;
+}
+
+section {
+  margin: 0 auto;
+  width: 90%;
+  
+  border-style: solid;
+  border-color: white;
+}
+
+header {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+footer {
+  margin-top: 10px;
+  padding-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+footer p {
+  padding-top: 0px;
+  margin-bottom: 0px;
+}
+
+img {
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-weight: 200;
+}
+
+.btn.btn-secondary.btn-lg.active {
+  color: black;
+  background-color: white;
+}
+
+#icons {
+  color:white
+}
