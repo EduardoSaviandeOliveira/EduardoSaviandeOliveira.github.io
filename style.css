@@ -1,48 +1,27 @@
-body {
-  font-family: 'Source Serif Pro', serif;
-  background-color: black;
-  color: white;
+header {
+    font-size: 20px;
+}
+nav-brand {
+    font-size: 30px;
 }
 
-section {
-  color: white;
-  background-color: black;
-  margin: 0 auto;
-  width: 90%;
-  border-style: solid;
-  border-color: white;
+h3 {
+    font-size: 25px;
+}
+
+#end {
+    margin-bottom: 10px;
+}
+
+#ulend {
+    margin-bottom: 0px;
+}
+
+section{
+    border: 0px;
+    margin: 0px;
 }
 
 header {
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-
-footer {
-  margin-top: 10px;
-  padding-bottom: 0px;
-  padding-bottom: 0px;
-}
-
-footer p {
-  padding-top: 0px;
-  margin-bottom: 0px;
-}
-
-img {
-  margin-top: 5px;
-  margin-bottom: 15px;
-}
-
-h2 {
-  font-weight: 200;
-}
-
-.btn.btn-secondary.btn-lg.active {
-  color: black;
-  background-color: white;
-}
-
-#icons {
-  color:white
+    margin: 0px;   
 }
